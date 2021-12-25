@@ -1,1 +1,0 @@
-# sierpi-ski-triangle
